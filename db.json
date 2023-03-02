@@ -22,12 +22,12 @@
     },
     {
       "content": "yo",
-      "important": false,
+      "important": true,
       "id": 5
     },
     {
       "content": "Hello",
-      "important": true,
+      "important": false,
       "id": 6
     }
   ]
